@@ -15,10 +15,11 @@ Content-Type: application/json
   	"password" : "***********",
   	"projectId": "4c0bf3d5-a218-4aaa-8c03-eb210ee5f848",
   	"device" : {
-  		"platform" : "iOS",
-  		"os" : "iOS 12.4",
-  		"model" : "4,6",
-  		"vendor" : "Apple"
+		"identifer" : "{UUID , created on first app start!!!}",
+  		"platform" : "{please add correct device platform from device data: e.g iOS}",
+  		"os" : "{please add correct os version from device os data: e.g for iOS  12.x/ Android xy}",
+  		"model" : "{please add correct model code from device data: e.g 4,6}",
+  		"vendor" : "{please add correct device vendor from device data: e.g Apple/Samsung }"
   	},
   	"location" : {
   		"latitude" : 48.135124,
