@@ -15,7 +15,7 @@ Content-Type: application/json
   	"password" : "***********",
   	"projectId": "4c0bf3d5-a218-4aaa-8c03-eb210ee5f848",
   	"device" : {
-		"identifer" : "{UUID , created on first app start!!!}",
+		"identifier" : "{UUID , created on first app start!!!}",
   		"platform" : "{please add correct device platform from device data: e.g iOS}",
   		"os" : "{please add correct os version from device os data: e.g for iOS  12.x/ Android xy}",
   		"model" : "{please add correct model code from device data: e.g 4,6}",
